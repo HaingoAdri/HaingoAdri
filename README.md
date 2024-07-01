@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Razafimanjato Haingoniaina Adrienne</h1>
 <h3 align="center">Student in IT</h3>
-- 🌱 I’m currently learning **Flutter, Node JS, Spring MVC**
+- 🌱 I’m currently learning **Vue JS, Spring MVC**
 
 - 📫 How to reach me **razafi.haingo.adr@gmail.com**
 
